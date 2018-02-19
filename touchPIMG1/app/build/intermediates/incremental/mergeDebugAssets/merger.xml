@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/assets"><file name="fruitfliespoints.txt" path="/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/assets/fruitfliespoints.txt"/></source><source path="/Users/tugeng/StudioProjects/touchPIMG1/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/tugeng/StudioProjects/touchPIMG1/app/src/debug/assets"/></dataSet></merger>

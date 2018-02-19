@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/RelativeLayout01" xmlns:android="http://schemas.android.com/apk/res/android" 
+android:layout_gravity="center_vertical|center_horizontal" 
+android:layout_height="wrap_content" 
+android:layout_width="wrap_content">
+	
+	
+<ImageView android:id="@+id/ImageView01" 
+ android:src="@drawable/first_image" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content">
+</ImageView>
+<TextView android:id="@+id/TextView01" 
+android:text="欢迎来到昆虫采集器"
+android:layout_below="@id/ImageView01" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:layout_centerInParent="true"
+android:textSize="35dp"
+android:textColor="#a8abad">
+</TextView>
+</RelativeLayout>

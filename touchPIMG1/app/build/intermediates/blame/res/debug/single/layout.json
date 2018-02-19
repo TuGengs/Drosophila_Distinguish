@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/layout/slidingmenumain.xml"
+    }
+]

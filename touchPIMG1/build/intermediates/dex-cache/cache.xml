@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tugeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_da5f130edd4880f663837d94f6a5b1acc0b40035.jar" />
+    </item>
+
+</items>

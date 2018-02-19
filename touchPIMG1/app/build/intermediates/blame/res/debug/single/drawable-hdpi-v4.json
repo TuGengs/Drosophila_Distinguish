@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_1.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_1.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bg2.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_bg2.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_4.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_4.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bg1.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_bg1.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/circle_green.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/circle_green.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_2.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_2.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_3.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_3.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bg3_1.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_bg3_1.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/first_image.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/first_image.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonshape.xml",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/buttonshape.xml"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_icon.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_icon.png"
+    },
+    {
+        "merged": "/Users/tugeng/StudioProjects/touchPIMG1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_backpicture.png",
+        "source": "/Users/tugeng/StudioProjects/touchPIMG1/app/src/main/res/drawable-hdpi/ic_backpicture.png"
+    }
+]

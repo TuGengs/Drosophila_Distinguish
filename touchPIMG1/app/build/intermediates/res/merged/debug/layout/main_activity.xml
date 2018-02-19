@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent" 
+    android:background="#fff"
+     >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linerlarout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            >
+
+            <com.jxau.touchpimg.DragImageView
+                android:id="@+id/drawView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        
+       
+    </LinearLayout>
+     
+     <LinearLayout 
+         android:layout_width="fill_parent"
+       	 android:layout_height="wrap_content"
+       	 android:orientation="vertical"
+         android:background="#fff"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentStart="true">
+         <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            android:layout_weight="2">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+>
+                <TextView
+                    android:id="@+id/textRes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:layout_gravity="center"
+                    android:hint="请点击选择11个关键点"
+                    android:textSize="24sp" 
+                    android:textColor="@color/gold"/>
+            </LinearLayout>
+        </ScrollView>
+
+        
+         <TextView 
+         android:layout_width="match_parent"
+         android:layout_height="1dp" 
+         android:background="#a8abad"/>
+            
+         
+         <LinearLayout 
+                android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+            	android:orientation="horizontal">
+                 
+                 <Button
+                android:id="@+id/btnrotate"
+               	android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="旋转"
+                  android:background="#fff"
+                android:textStyle="bold" 
+                android:textColor="#a8abad"
+               
+             
+             
+              />
+                  <Button
+                android:id="@+id/buttondraw"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="放缩"
+                android:background="#fff"
+                android:textStyle="bold"
+                android:layout_weight="1" 
+             android:textColor="#a8abad"
+                
+              />
+                       <Button
+                android:id="@+id/buttonclear"
+                android:layout_width="fill_parent"
+               android:layout_height="fill_parent"
+                android:text="清除"
+                  android:background="#fff"
+                android:textStyle="bold" 
+                android:layout_weight="1"
+                 android:textColor="#a8abad"
+               />
+                <Button
+                android:id="@+id/buttonsubmit"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:text="鉴定"
+                  android:background="#fff"
+                android:textStyle="bold" 
+                android:layout_weight="1"
+                  android:textColor="#a8abad"
+                 />
+                 
+             </LinearLayout>
+        </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.slidingmenu.app.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slidingmenumain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+            <Button
+                android:id="@+id/btn_paizhao_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+               android:background="@drawable/buttonbg"
+                android:text="拍照"
+                android:textColor="#fff"
+                android:textSize="25sp"
+                android:layout_weight="1" />
+      
+
+        
+
+            <Button
+                android:id="@+id/btn_tuku_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/buttonbg"
+                android:text="从图库获取" 
+                android:textSize="25sp"
+                android:textColor="#fff"
+                android:layout_weight="1"
+                />
+        
+
+        
+
+            <Button
+                android:id="@+id/btn_xunlian"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                  android:background="@drawable/buttonbg"
+                android:text="训练分类器"
+                android:textColor="#fff"
+                android:textSize="25sp"
+                android:layout_weight="1" />
+        
+
+       
+
+          
+            <Button
+                android:id="@+id/btn_add"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                 android:background="@drawable/buttonbg"
+                android:text="添加当前样本"
+                android:textColor="#fff" 
+                android:textSize="25sp"
+                android:layout_weight="1"/>
+     
+        
+
+           
+
+            <Button
+                android:id="@+id/btn_setting"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                 android:background="@drawable/buttonbg"
+                android:text="设置域值" 
+                android:textColor="#fff"
+                android:textSize="25sp"
+                android:layout_weight="1"/>
+    </LinearLayout>
+
+</com.slidingmenu.app.SlidingMenu>
